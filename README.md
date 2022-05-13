@@ -1,4 +1,4 @@
-# GPIO
+# NTC
 
 
 Alumno: Tobias Rodriguez Vanini
